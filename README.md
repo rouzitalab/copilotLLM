@@ -1,2 +1,2 @@
 # copilotLLM
-Helper Google LLM for my coding projects
+Helper LLMs for my coding projects
